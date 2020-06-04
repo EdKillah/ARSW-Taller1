@@ -48,7 +48,7 @@ Apache Maven version: 3.6.3
 
 ## Diagrama de clases
 
-![image](https://github.com/EdKillah/ARSW-Taller1/resources/pruebas.png)
+![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/diagrama.png)
 
 
 
@@ -60,7 +60,7 @@ Estas pruebas pruebas la funcionalidad correcta del programa, validando que carg
 
 A continuación se presenta una imagen detallando el éxito de las mismas:
 
-![image](https://github.com/EdKillah/ARSW-Taller1/resources/pruebas.png)
+![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/pruebas.png)
 
 
 
