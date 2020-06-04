@@ -46,6 +46,10 @@ git version: 2.19.1.windows.1
 Apache Maven version: 3.6.3
 ```
 
+## Diagrama de clases
+
+![image](https://github.com/EdKillah/ARSW-Taller1/resources/pruebas.png)
+
 
 
 
@@ -56,7 +60,7 @@ Estas pruebas pruebas la funcionalidad correcta del programa, validando que carg
 
 A continuación se presenta una imagen detallando el éxito de las mismas:
 
-![image](https://github.com/EdKillah/ARSW-Taller1/blob/master/resources/pruebas.png)
+![image](https://github.com/EdKillah/ARSW-Taller1/resources/pruebas.png)
 
 
 
@@ -64,17 +68,14 @@ A continuación se presenta una imagen detallando el éxito de las mismas:
 
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [Java](https://www.java.com/es/download/)
+* [Git](https://github.com/) - Versionamiento
 
 
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Eduard Jimenez** - *LOCS/Hora  320/8 = 40 LOCS/Hora* - Fecha: 03/06/2020
+* **Eduard Jimenez** - *LOCS/Hora  360/12 = 30 LOCS/Hora* - Fecha: 03/06/2020
 
 
 
