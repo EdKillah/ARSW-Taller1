@@ -48,7 +48,7 @@ Apache Maven version: 3.6.3
 
 ## Diagrama de clases
 
-![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/diagrama.png)
+![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/diagrama.PNG)
 
 
 
@@ -60,7 +60,7 @@ Estas pruebas pruebas la funcionalidad correcta del programa, validando que carg
 
 A continuación se presenta una imagen detallando el éxito de las mismas:
 
-![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/pruebas.png)
+![image](https://github.com/EdKillah/ARSW-Taller1/tree/master/resources/pruebas.PNG)
 
 
 
@@ -82,3 +82,9 @@ A continuación se presenta una imagen detallando el éxito de las mismas:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+### Enlace al sistema de integración continua
+
+_A continuación se presenta el link:_
+[![CircleCI](https://circleci.com/gh/EdKillah/ARSW-Taller1.svg?style=svg)](https://circleci.com/gh/EdKillah/ARSW-Taller1)
